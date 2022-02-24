@@ -1,4 +1,5 @@
-# DiceBot
+#[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ruined-soul/DiceBot)
+#DiceBot
 
 Simple Telegram bot that rolls dice!
 
